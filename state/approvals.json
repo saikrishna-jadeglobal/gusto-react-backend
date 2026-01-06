@@ -1,0 +1,91 @@
+{
+  "equity-1": {
+    "id": "equity-1",
+    "agentType": "equity",
+    "status": "pending",
+    "result": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
+  },
+  "equity-2": {
+    "approvalId": "equity-2",
+    "workflowName": "Equity Month-End Close",
+    "agentType": "equity",
+    "status": "pending",
+    "results": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
+  },
+  "equity-3": {
+    "approvalId": "equity-3",
+    "workflowName": "Equity Month-End Close",
+    "agentType": "equity",
+    "status": "pending",
+    "results": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
+  },
+  "equity-4": {
+    "approvalId": "equity-4",
+    "workflowName": "Equity Month-End Close",
+    "agentType": "equity",
+    "status": "pending",
+    "results": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
+  },
+  "equity-5": {
+    "approvalId": "equity-5",
+    "workflowName": "Equity Month-End Close",
+    "agentType": "equity",
+    "status": "pending",
+    "results": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
+  },
+  "equity-6": {
+    "approvalId": "equity-6",
+    "workflowName": "Equity Month-End Close",
+    "agentType": "equity",
+    "status": "pending",
+    "results": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
+  }
+}

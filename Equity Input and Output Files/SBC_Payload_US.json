@@ -1,0 +1,748 @@
+{
+    "subsidiary": 1,
+    "tran_date": "2025-12-31",
+    "memo": "November 2025_SBC_US",
+    "lines": [
+        {
+            "account": 456,
+            "debit": 0,
+            "credit": 595489.88,
+            "department": 201,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Accrual - US",
+            "entity": 0
+        },
+        {
+            "account": 456,
+            "debit": 595489.88,
+            "credit": 0,
+            "department": 201,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Accrual - US (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 3271.29,
+            "credit": 0,
+            "department": 101,
+            "class": 104,
+            "location": 2,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 3271.29,
+            "department": 101,
+            "class": 104,
+            "location": 2,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 46621.32,
+            "department": 234,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 46621.32,
+            "credit": 0,
+            "department": 234,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 3306.68,
+            "credit": 0,
+            "department": 102,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 3306.68,
+            "department": 102,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 1364.69,
+            "credit": 0,
+            "department": 103,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 1364.69,
+            "department": 103,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 25678.87,
+            "credit": 0,
+            "department": 103,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 25678.87,
+            "department": 103,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 224277.63,
+            "credit": 0,
+            "department": 214,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 224277.63,
+            "department": 214,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 20036.68,
+            "credit": 0,
+            "department": 214,
+            "class": 109,
+            "location": 228,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 20036.68,
+            "department": 214,
+            "class": 109,
+            "location": 228,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 5386.5,
+            "credit": 0,
+            "department": 106,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 5386.5,
+            "department": 106,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 6904.38,
+            "credit": 0,
+            "department": 215,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 6904.38,
+            "department": 215,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 7245.25,
+            "credit": 0,
+            "department": 388,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 7245.25,
+            "department": 388,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 18535.61,
+            "credit": 0,
+            "department": 219,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 18535.61,
+            "department": 219,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 8525.78,
+            "credit": 0,
+            "department": 206,
+            "class": 133,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 8525.78,
+            "department": 206,
+            "class": 133,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 3542.24,
+            "credit": 0,
+            "department": 206,
+            "class": 220,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 3542.24,
+            "department": 206,
+            "class": 220,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 5520.88,
+            "credit": 0,
+            "department": 206,
+            "class": 109,
+            "location": 228,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 5520.88,
+            "department": 206,
+            "class": 109,
+            "location": 228,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 16506.8,
+            "credit": 0,
+            "department": 206,
+            "class": 214,
+            "location": 8,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 16506.8,
+            "department": 206,
+            "class": 214,
+            "location": 8,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 3000.34,
+            "credit": 0,
+            "department": 206,
+            "class": 220,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 3000.34,
+            "department": 206,
+            "class": 220,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 17984.25,
+            "credit": 0,
+            "department": 117,
+            "class": 108,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 17984.25,
+            "department": 117,
+            "class": 108,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 88854.52,
+            "credit": 0,
+            "department": 117,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 88854.52,
+            "department": 117,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 17579.54,
+            "credit": 0,
+            "department": 117,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 17579.54,
+            "department": 117,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 2724.41,
+            "credit": 0,
+            "department": 118,
+            "class": 118,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 2724.41,
+            "department": 118,
+            "class": 118,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 13918.38,
+            "credit": 0,
+            "department": 118,
+            "class": 119,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 13918.38,
+            "department": 118,
+            "class": 119,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 11902.94,
+            "credit": 0,
+            "department": 118,
+            "class": 124,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 11902.94,
+            "department": 118,
+            "class": 124,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 20178.46,
+            "credit": 0,
+            "department": 118,
+            "class": 133,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 20178.46,
+            "department": 118,
+            "class": 133,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 10077.85,
+            "credit": 0,
+            "department": 118,
+            "class": 112,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 10077.85,
+            "department": 118,
+            "class": 112,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 3770.86,
+            "credit": 0,
+            "department": 118,
+            "class": 120,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 3770.86,
+            "department": 118,
+            "class": 120,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 11973.91,
+            "credit": 0,
+            "department": 120,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 11973.91,
+            "department": 120,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 7416.7,
+            "credit": 0,
+            "department": 124,
+            "class": 215,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 7416.7,
+            "department": 124,
+            "class": 215,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 5604.62,
+            "credit": 0,
+            "department": 279,
+            "class": 104,
+            "location": 2,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 5604.62,
+            "department": 279,
+            "class": 104,
+            "location": 2,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 15053.47,
+            "credit": 0,
+            "department": 225,
+            "class": 104,
+            "location": 8,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 15053.47,
+            "department": 225,
+            "class": 104,
+            "location": 8,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 6518.29,
+            "credit": 0,
+            "department": 225,
+            "class": 118,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 6518.29,
+            "department": 225,
+            "class": 118,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 5065.13,
+            "credit": 0,
+            "department": 225,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 5065.13,
+            "department": 225,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 264.62,
+            "department": 253,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 264.62,
+            "credit": 0,
+            "department": 253,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 7269.35,
+            "credit": 0,
+            "department": 255,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 7269.35,
+            "department": 255,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 27823.54,
+            "credit": 0,
+            "department": 226,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 27823.54,
+            "department": 226,
+            "class": 104,
+            "location": 12,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 1088.77,
+            "credit": 0,
+            "department": 290,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 1088.77,
+            "department": 290,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 14467.2,
+            "credit": 0,
+            "department": 389,
+            "class": 104,
+            "location": 2,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 14467.2,
+            "department": 389,
+            "class": 104,
+            "location": 2,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        }
+    ],
+    "approval_status": "Pending Approval"
+}

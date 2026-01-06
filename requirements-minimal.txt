@@ -1,0 +1,10 @@
+# Minimal requirements - pip will resolve compatible versions
+fastapi
+uvicorn
+pydantic
+langgraph
+langchain
+langchain-anthropic
+anthropic
+python-dotenv
+httpx

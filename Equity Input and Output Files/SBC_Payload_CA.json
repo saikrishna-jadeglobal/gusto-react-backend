@@ -1,0 +1,88 @@
+{
+    "subsidiary": 5,
+    "tran_date": "2025-12-31",
+    "memo": "Nov 2025_SBC_CA",
+    "lines": [
+        {
+            "account": 456,
+            "debit": 0,
+            "credit": 48890.53,
+            "department": 201,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Accrual - Canada",
+            "entity": 0
+        },
+        {
+            "account": 456,
+            "debit": 48890.53,
+            "credit": 0,
+            "department": 201,
+            "class": 104,
+            "location": 1,
+            "memo": "SBC Expense Accrual - Canada (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 8395.29,
+            "credit": 0,
+            "department": 101,
+            "class": 104,
+            "location": 225,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 8395.29,
+            "department": 101,
+            "class": 104,
+            "location": 225,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 1364.69,
+            "credit": 0,
+            "department": 221,
+            "class": 156,
+            "location": 225,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 1364.69,
+            "department": 221,
+            "class": 156,
+            "location": 225,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 39130.55,
+            "credit": 0,
+            "department": 119,
+            "class": 104,
+            "location": 225,
+            "memo": "SBC Expense Allocation",
+            "entity": 0
+        },
+        {
+            "account": 365,
+            "debit": 0,
+            "credit": 39130.55,
+            "department": 119,
+            "class": 104,
+            "location": 225,
+            "memo": "SBC Expense Allocation (balance)",
+            "entity": 0
+        }
+    ],
+    "approval_status": "Pending Approval"
+}
