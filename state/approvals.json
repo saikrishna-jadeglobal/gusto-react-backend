@@ -87,5 +87,20 @@
       ],
       "approval_required": true
     }
+  },
+  "equity-7": {
+    "approvalId": "equity-7",
+    "workflowName": "Equity Month-End Close",
+    "agentType": "equity",
+    "status": "pending",
+    "results": {
+      "period": "Nov 2024",
+      "business_day": null,
+      "tasks_received": 4,
+      "files_generated": [
+        "Equity_JE_US.json"
+      ],
+      "approval_required": true
+    }
   }
 }
